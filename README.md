@@ -21,9 +21,11 @@ npm install key-event-plus
 ### Function
 `keyEventListener(ms, callback)`
 
-*ms* is the millisseconds between each update
+`ms` is the millisseconds between each update
 
-*callback* is the callback function
+`callback` is the callback function
+
+The returned object in callback function has the `key` attribute and the `state` attribute that can have the `down` or `up` value
 
 ### Using
 ```
