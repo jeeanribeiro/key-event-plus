@@ -1,6 +1,6 @@
 {
   "name": "key-event-plus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Improved key up and key down listener",
   "main": "index.js",
   "scripts": {
