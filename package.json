@@ -1,0 +1,19 @@
+{
+  "name": "key-event-plus",
+  "version": "1.0.0",
+  "description": "Improved key up and key down listener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "key",
+    "event",
+    "eventlistener",
+    "keypress",
+    "keydown",
+    "keyup"
+  ],
+  "author": "Jean Ribeiro",
+  "license": "MIT"
+}
