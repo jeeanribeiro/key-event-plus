@@ -27,11 +27,13 @@ npm install key-event-plus
 
 The returned object in callback function has the `key` attribute and the `state` attribute that can have the `down` or `up` value
 
-### Using
+### Use example
 ```
 var keyEventListener = require('key-event-plus');
 
 window.onload = function() {
-	keyEventListener(20, key => console.log(key));
+  keyEventListener(20, keyEvent => {
+    console.log(keyEvent.key, keyEvent.state);
+  }
 }
 ```
