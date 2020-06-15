@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeeanribeiro/key-event-plus.git"
+  },
+  "homepage": "https://github.com/jeeanribeiro/key-event-plus#readme",
+  "bugs": {
+    "url": "https://github.com/jeeanribeiro/key-event-plus/issues"
+  },
   "keywords": [
     "key",
     "event",
