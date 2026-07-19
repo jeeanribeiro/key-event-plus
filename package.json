@@ -62,6 +62,7 @@
   "devDependencies": {
     "@changesets/cli": "2.31.1",
     "@eslint/js": "^10.0.1",
+    "@fontsource-variable/jetbrains-mono": "^5.3.0",
     "@playwright/test": "1.61.1",
     "@size-limit/preset-small-lib": "^12.1.0",
     "@tailwindcss/vite": "^4.3.3",
