@@ -1,0 +1,7 @@
+dist/
+demo/dist/
+coverage/
+docs/assets/
+pnpm-lock.yaml
+CHANGELOG.md
+test-results/
