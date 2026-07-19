@@ -1,0 +1,15 @@
+[
+  {
+    "name": "everything",
+    "path": "dist/index.js",
+    "gzip": true,
+    "limit": "1 kB"
+  },
+  {
+    "name": "onKey only",
+    "path": "dist/index.js",
+    "import": "{ onKey }",
+    "gzip": true,
+    "limit": "450 B"
+  }
+]
