@@ -1,0 +1,5 @@
+# Check text files out with LF everywhere so lint/format checks behave the
+# same on every OS, regardless of core.autocrlf.
+* text=auto eol=lf
+
+*.png binary
